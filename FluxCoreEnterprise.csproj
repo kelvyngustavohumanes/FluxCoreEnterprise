@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Modules\BusinessIntelligence\Models\" />
+	<Folder Include="Modules\BusinessIntelligence\Models\"/>
     <Folder Include="Modules\BusinessIntelligence\Services\" />
     <Folder Include="Modules\CRM\Models\" />
     <Folder Include="Modules\CRM\Services\" />
