@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Modules\BusinessIntelligence\Models\" />
+    <Folder Include="Modules\BusinessIntelligence\Services\" />
+    <Folder Include="Modules\CRM\Models\" />
+    <Folder Include="Modules\CRM\Services\" />
+    <Folder Include="Modules\FinancialManagement\Models\" />
+    <Folder Include="Modules\FinancialManagement\Services\" />
+    <Folder Include="Modules\HumanResources\Models\" />
+    <Folder Include="Modules\HumanResources\Services\" />
+    <Folder Include="Modules\InventoryManagement\Models\" />
+    <Folder Include="Modules\InventoryManagement\Services\" />
+    <Folder Include="Modules\ProductionPlanning\Models\" />
+    <Folder Include="Modules\ProductionPlanning\Services\" />
+    <Folder Include="Modules\PurchasingManagement\Models\" />
+    <Folder Include="Modules\PurchasingManagement\Services\" />
+  </ItemGroup>
+
+</Project>
